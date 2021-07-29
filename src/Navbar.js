@@ -5,8 +5,9 @@ const Navbar = () => {
     <nav className="navbar">
       <h1>The Dojo Blog</h1>
       <div className="links">
-        <Link to="/">Home</Link>
+        <Link to="/" style={{ color: 'white', backgroundColor: '#f1356d', borderRadius: '8px' }}>Home</Link>
         <Link to="/create" style={{ color: 'white', backgroundColor: '#f1356d', borderRadius: '8px' }}>New Blog</Link>
+        <Link to="/about" style={{ color: 'white', backgroundColor: '#f1356d', borderRadius: '8px' }}>About</Link>
       </div>
     </nav>
   );
