@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/alfaro-blog/static/css/main.9236b18b.chunk.css",
+    "main.js": "/alfaro-blog/static/js/main.acc177c4.chunk.js",
+    "main.js.map": "/alfaro-blog/static/js/main.acc177c4.chunk.js.map",
+    "runtime-main.js": "/alfaro-blog/static/js/runtime-main.ba4a9017.js",
+    "runtime-main.js.map": "/alfaro-blog/static/js/runtime-main.ba4a9017.js.map",
+    "static/js/2.2b9e4441.chunk.js": "/alfaro-blog/static/js/2.2b9e4441.chunk.js",
+    "static/js/2.2b9e4441.chunk.js.map": "/alfaro-blog/static/js/2.2b9e4441.chunk.js.map",
+    "index.html": "/alfaro-blog/index.html",
+    "static/css/main.9236b18b.chunk.css.map": "/alfaro-blog/static/css/main.9236b18b.chunk.css.map",
+    "static/js/2.2b9e4441.chunk.js.LICENSE.txt": "/alfaro-blog/static/js/2.2b9e4441.chunk.js.LICENSE.txt",
+    "static/media/myAvatar.382a6ca2.png": "/alfaro-blog/static/media/myAvatar.382a6ca2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba4a9017.js",
+    "static/js/2.2b9e4441.chunk.js",
+    "static/css/main.9236b18b.chunk.css",
+    "static/js/main.acc177c4.chunk.js"
+  ]
+}
